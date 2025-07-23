@@ -1,5 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fO8pjV07)
-# Desafio: Protótipo de Cardápio Digital - DevBurger
+
+## 🚀 Projeto: DevBurger – Cardápio Digital com Node.js
+
+Desenvolvido como parte da Etapa 1 do Journey Backend (https://www.sympla.com.br/evento-online/journey-backend/3002580), este projeto simula um sistema de cardápio digital para uma hamburgueria fictícia. Aqui, pratiquei criação de rotas com Express.js, recebimento de dados via formulário e retorno de respostas dinâmicas, com estrutura organizada e boas práticas REST.
+
+
+🔗 Acesse a API publicada aqui: https://wt-journey-backend-01-etapa-1-oklu.onrender.com/
+
+
+# Informações do Desafio: Protótipo de Cardápio Digital - DevBurger
 
 Bem-vindo(a) ao desafio de desenvolvimento do protótipo de um cardápio digital para a nossa nova hamburgueria gourmet, a "DevBurger"!
 
